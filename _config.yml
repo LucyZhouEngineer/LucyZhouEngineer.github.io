@@ -15,15 +15,15 @@
 minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko-KR" #"en-US"
-title: "choiiis Devlog"
-title_separator: "&#124;"
-subtitle: # site tagline that appears below site title in masthead
-name: "choiiis"
-description: "choiiis DevLog"
-url: "https://choiiis.github.io"
+locale: "en-US"
+title: "Hui Zhou"
+title_separator          : "|"
+subtitle                 : "A code Ninja"
+name                     : "Hui Zhou"
+description: "Hi There, Welcome!"
+url: "https://lucyzhouengineer.github.io/"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "choiiis/choiiis.github.io"
+repository: "LucyZhouEngineer/LucyZhouEngineer.github.io"
 teaser: #
 # logo                     : "/assets/images/meee.svg"
 #"/assets/images/monster.png"
@@ -51,8 +51,8 @@ reCaptcha:
   siteKey:
   secret:
 atom_feed:
-  path: # blank (default) uses feed.xml
-  hide: # true, false (default)
+  path: blank
+  hide: true
 search: # true, false (default)
 search_full_content: # true, false (default)
 search_provider: # google
@@ -95,30 +95,22 @@ analytics:
 
 # Site Author
 author:
-  name: "choiiis"
+  name: "Hui Zhou"
   avatar: "/assets/images/meee.svg"
-  #   bio              : "Hamppiness!"
-  # location         : "Seoul, Korea"
-  # email            : "bemychoiiis@gmail.com"
+  # bio              : 
+  # location         : "Seattle, WA, USA"
+  # email            : "zhouhui2023cs@gmail.com"
+
   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:your.name@email.com"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url: "https://twitter.com/"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url: "https://facebook.com/"
-# - label: "GitHub"
-#   icon: "fab fa-fw fa-github"
-#   url: "https://github.com/choiiis"
-# - label: "Instagram"
-#   icon: "fab fa-fw fa-instagram"
-#   url: "https://www.instagram.com/choiiis.dev/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zhouhui2023cs@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hui-zhou-7ab78620a/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LucyZhouEngineer"
 
 # Site Footer
 footer:
