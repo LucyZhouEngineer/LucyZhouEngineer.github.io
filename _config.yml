@@ -16,9 +16,9 @@ minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale: "en-US"
-title: "Hui Zhou"
+title: "Hui Zhou | A Code Ninja"
 title_separator          : "|"
-subtitle                 : "A code Ninja"
+subtitle                 : ""
 name                     : "Hui Zhou"
 description: "Hi There, Welcome!"
 url: "https://lucyzhouengineer.github.io/"
