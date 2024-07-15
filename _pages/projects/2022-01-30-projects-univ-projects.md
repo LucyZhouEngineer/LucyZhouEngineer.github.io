@@ -1,6 +1,6 @@
 ---
-title: "Projects during my university years ('15-'20)"
-permalink: /projects/univ-projects/
+title: "Tech Projects ('23-'24)"
+permalink: /projects/tech-projects/
 layout: gallery
 
 date: 2022-01-30
