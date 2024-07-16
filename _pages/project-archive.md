@@ -6,7 +6,7 @@ permalink: /projects/
 #   - excerpt: ' '
 
 feature_row:
-  - image_path: /assets/images/project_img/univ/project_univ.png
+  - image_path: /assets/images/project_img/univ/logo-projects.png
     title: "Tech Projects ('23-'24)"
     url: /projects/tech-projects/
 ---
