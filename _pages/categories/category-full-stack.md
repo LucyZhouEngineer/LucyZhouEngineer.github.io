@@ -1,5 +1,5 @@
 ---
-title: "Web"
+title: "Full Stack"
 layout: category
 permalink: /categories/web/
 author_profile: true
